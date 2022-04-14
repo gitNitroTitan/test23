@@ -1,0 +1,27 @@
+body{
+background-color: black;
+margin: 100px;
+}
+.container{
+  display: flex;
+flex-wrap: wrap;
+  row-gap: 100px;
+  column-gap: 100px;
+}
+.card-title{
+  text-align: center;
+  border: 1px solid lightblue;
+}
+.card-text{
+  text-align: justify;
+ }
+#status{
+  background-color: darkgrey;
+  color:yellow;
+}
+#details{
+font-weight: bold;
+}
+h2{
+  text-align: center;
+}
